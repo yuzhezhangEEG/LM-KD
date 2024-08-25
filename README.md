@@ -1,2 +1,2 @@
 # LM-KD
-The source code is currently being organized and will be available soon.
+After downloading the dataset and pretrained models to the appropriate paths in the code, you can run the main file.
